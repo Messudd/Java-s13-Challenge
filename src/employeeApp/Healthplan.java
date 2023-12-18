@@ -28,7 +28,6 @@ public class Healthplan {
     public void setPlan(Plan plan) {
         this.plan = plan;
     }
-<<<<<<< HEAD
     @Override
     public String toString() {
         return "Healthplan{" +
@@ -37,6 +36,4 @@ public class Healthplan {
                 ", plan=" + plan +
                 '}';
     }
-=======
->>>>>>> 62aa462184b343cd2d16bd73bcc5667030884e9a
 }

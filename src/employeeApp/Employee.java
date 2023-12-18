@@ -1,10 +1,5 @@
 package employeeApp;
-
-<<<<<<< HEAD
 import java.util.Arrays;
-
-=======
->>>>>>> 62aa462184b343cd2d16bd73bcc5667030884e9a
 public class Employee {
     private  int id;
     private  String fullName;
@@ -12,16 +7,11 @@ public class Employee {
     private  int password;
     private  String[] healthplans;
 
-<<<<<<< HEAD
     public Employee(int id, String fullName, String email, int password) {
-=======
-    public Employee(int id, String fullName, String email, int password, String[] healthplans) {
->>>>>>> 62aa462184b343cd2d16bd73bcc5667030884e9a
         this.id = id;
         this.fullName = fullName;
         this.email = email;
         this.password = password;
-<<<<<<< HEAD
         this.healthplans = new String[4];
     }
 
@@ -82,10 +72,5 @@ public class Employee {
                 ", healthplans=" + Arrays.toString(healthplans) +
                 '}';
     }
-=======
-        this.healthplans = healthplans;
-    }
-
-
->>>>>>> 62aa462184b343cd2d16bd73bcc5667030884e9a
 }
+

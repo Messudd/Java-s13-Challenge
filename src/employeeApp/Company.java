@@ -1,6 +1,4 @@
 package employeeApp;
-
-<<<<<<< HEAD
 import java.util.Arrays;
 
 public class Company {
@@ -57,7 +55,4 @@ public class Company {
                 ", developerNames=" + Arrays.toString(developerNames) +
                 '}';
     }
-=======
-public class Company {
->>>>>>> 62aa462184b343cd2d16bd73bcc5667030884e9a
 }

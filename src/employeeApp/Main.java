@@ -21,7 +21,6 @@ public class Main
         System.out.println(employee);
         System.out.println(com);
     }
-
     /**
      * Bu projenin ana(main) metodu. Java uygulamalarında main metot küçük bir metot olur.
      * Bir Java programınd ilgili işlemlerin çoğunluğu başka metodlarda yapılır.
